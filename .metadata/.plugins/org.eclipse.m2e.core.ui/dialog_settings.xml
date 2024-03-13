@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Jada\Downloads\spring-in-action-6-samples-main\spring-in-action-6-samples-main\ch02\taco-cloud"/>
 			<item value="C:\Users\Jada\Downloads\spring-in-action-6-samples-main\spring-in-action-6-samples-main\ch01"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -12,5 +13,9 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
